@@ -1,0 +1,5 @@
+first create a folder
+create a file
+git init on the console
+git remote add origin url
+
